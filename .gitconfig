@@ -1,4 +1,0 @@
-[alias]
-	br = branch
-	ch = checkout
-	pp = pull --prune
